@@ -7,6 +7,14 @@
     "description": "已实测列表、详情和公开章节的前两页"
   },
   {
+    "name": "哔咔漫画（Picacg）",
+    "key": "picacg",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/picacg.js",
+    "fileName": "picacg.js",
+    "description": "需在源设置中登录。登录后的阅读功能尚未验收。"
+  },
+  {
     "name": "《崩坏3》IP站",
     "key": "bh3",
     "version": "1.0.2",

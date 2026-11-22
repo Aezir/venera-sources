@@ -118,5 +118,5 @@
 | Kavita | kavita | 1.0.0 | 需配置服务器 | — |
 | Komga | komga | 1.0.0 | 需配置服务器 | — |
 | Lanraragi | lanraragi | 1.2.0 | 需配置服务器 | — |
-| Picacg | picacg | 1.0.6 | 需登录 | — |
+| 哔咔漫画（Picacg） | picacg | 1.0.6 | 需登录，已按需加入主订阅 | — |
 | SF漫画 | sfacg_manhua | 1.0.0 | 公开探测未取得条目 | — |

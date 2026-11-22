@@ -46,6 +46,14 @@
     "unavailable": 12,
     "review": 12
   },
+  "subscriptionOverrides": [
+    {
+      "key": "picacg",
+      "variant": "picacg:a404719b7f3f33",
+      "index": "index.json",
+      "reason": "login_required"
+    }
+  ],
   "own": {
     "key": "manwa_web_v2",
     "version": "0.1.0",

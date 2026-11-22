@@ -4,7 +4,7 @@
 
 | 分类 | 数量 | 地址 |
 | --- | ---: | --- |
-| 主订阅 · 列表和详情通过 | 73 | [index.json](https://raw.githubusercontent.com/Aezir/venera-sources/main/index.json) |
+| 主订阅 · 73 个已验证源及哔咔漫画（需登录） | 74 | [index.json](https://raw.githubusercontent.com/Aezir/venera-sources/main/index.json) |
 | 部分可用 · 列表通过 | 1 | [limited/index.json](https://raw.githubusercontent.com/Aezir/venera-sources/main/limited/index.json) |
 | 本轮公开入口不可用 | 12 | [unavailable/index.json](https://raw.githubusercontent.com/Aezir/venera-sources/main/unavailable/index.json) |
 | 未确认、需配置或代码复核 | 12 | [review.json](review.json) |
@@ -15,7 +15,7 @@
 
 2026-11-22使用官方 VeneraX 3.0.1 和 Android 15 x86_64。在同一网络下使用独立测试用户，匿名调用各源的推荐或搜索入口，再尝试打开一个详情。两份上游有 135 个条目、115 份不同脚本和 97 个源键。其中 108 份脚本运行了原生测试。
 
-主订阅表示列表与详情通过。第三方脚本的阅读图片未逐源验收。对未通过且可直接运行的候选做了低并发复测。本轮不可用可能来自临时网络、站点区域限制或源脚本问题。只返回空列表、需要登录或自建后端、以及待代码复核的条目另行标明。
+主订阅收录列表与详情通过的源，以及按需加入的哔咔漫画。哔咔需要登录，登录后的阅读功能尚未验收，也保留在复核记录中。第三方脚本的阅读图片未逐源验收。对未通过且可直接运行的候选做了低并发复测。本轮不可用可能来自临时网络、站点区域限制或源脚本问题。只返回空列表、需要登录或自建后端、以及待代码复核的条目另行标明。
 
 [实测明细](RESULTS.md) · [机器可读记录](audit.json) · [独立漫蛙源](sources/manwa-web-v2-0.1.0.js)
 
