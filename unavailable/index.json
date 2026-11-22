@@ -1,0 +1,98 @@
+[
+  {
+    "name": "18漫画",
+    "key": "mh18",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mh18.js",
+    "fileName": "mh18.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "爱看漫",
+    "key": "ikmmh_v2",
+    "version": "3.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/ikmmh_v2.js",
+    "fileName": "ikmmh_v2.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "次元漫画",
+    "key": "cycomic",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/cycomic.js",
+    "fileName": "cycomic.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "嗨皮漫画",
+    "key": "happy",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/happy.js",
+    "fileName": "happy.js",
+    "description": "连接或 TLS 失败"
+  },
+  {
+    "name": "喜漫漫画",
+    "key": "favcomic",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/favcomic.js",
+    "fileName": "favcomic.js",
+    "description": "连接或 TLS 失败"
+  },
+  {
+    "name": "野蛮漫画",
+    "key": "yemancomic",
+    "version": "1.3.8",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/yemancomic.js",
+    "fileName": "yemancomic.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "野漫漫画(漫神)",
+    "key": "yemanmh",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/yemanmh.js",
+    "fileName": "yemanmh.js",
+    "description": "HTTP 403"
+  },
+  {
+    "name": "优酷漫画 (修复版)",
+    "key": "ykmh",
+    "version": "1.0.7",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/youku.js",
+    "fileName": "youku.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "MangaDex",
+    "key": "manga_dex",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/manga_dex.js",
+    "fileName": "manga_dex.js",
+    "description": "响应或脚本格式异常"
+  },
+  {
+    "name": "NoyManga",
+    "key": "noymanga",
+    "version": "1.1.5",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/noymanga.js",
+    "fileName": "noymanga.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "Pixiv",
+    "key": "pixiv",
+    "version": "1.7.2",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/pixiv.js",
+    "fileName": "pixiv.js",
+    "description": "请求或脚本异常"
+  },
+  {
+    "name": "カドコミ",
+    "key": "comic_walker",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/comic_walker.js",
+    "fileName": "comic_walker.js",
+    "description": "响应或脚本格式异常"
+  }
+]

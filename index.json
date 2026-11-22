@@ -1,0 +1,585 @@
+[
+  {
+    "name": "漫蛙·新版站点",
+    "key": "manwa_web_v2",
+    "version": "0.1.0",
+    "fileName": "sources/manwa-web-v2-0.1.0.js",
+    "description": "已实测列表、详情和公开章节的前两页"
+  },
+  {
+    "name": "《崩坏3》IP站",
+    "key": "bh3",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/bh3.js",
+    "fileName": "bh3.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "311漫画",
+    "key": "s311_com",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/311.js",
+    "fileName": "311.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "51漫画",
+    "key": "manga51",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manga51.js",
+    "fileName": "manga51.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "包子漫画",
+    "key": "baozi",
+    "version": "1.1.8",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/baozi.js",
+    "fileName": "baozi.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "嗶哩漫畫",
+    "key": "bilimanga",
+    "version": "1.1.7",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/bilimanga.js",
+    "fileName": "bilimanga.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "布卡漫画",
+    "key": "bukamh",
+    "version": "1.2.9",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/bukamh.js",
+    "fileName": "bukamh.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "咚漫",
+    "key": "dongmanmanhua",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/dongmanmanhua.js",
+    "fileName": "dongmanmanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongman_la",
+    "version": "1.0.5",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/dongman_la_fixed_v101.js",
+    "fileName": "dongman_la_fixed_v101.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "动漫屋",
+    "key": "dm5",
+    "version": "7.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/dm5.js",
+    "fileName": "dm5.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "飞翔漫画",
+    "key": "ffppt",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/ffppt.js",
+    "fileName": "ffppt.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "古风漫画",
+    "key": "GfmhApp",
+    "version": "1.3.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/gfmh.js",
+    "fileName": "gfmh.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "瓜子漫画",
+    "key": "guazimanhua",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/guazi_manhua_v1.1.0.js",
+    "fileName": "guazi_manhua_v1.1.0.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "好看漫画",
+    "key": "haokan_txt",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/haokan.js",
+    "fileName": "haokan.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "极速漫画",
+    "key": "one_kkk",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/one_kkk.js",
+    "fileName": "one_kkk.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "禁漫天堂",
+    "key": "jm",
+    "version": "1.4.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/jm.js",
+    "fileName": "jm.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "看漫画",
+    "key": "kanman",
+    "version": "2.2.7",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/kanman.js",
+    "fileName": "kanman.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "拷贝漫画",
+    "key": "copy_manga",
+    "version": "1.6.6",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/copy_manga.js",
+    "fileName": "copy_manga.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "快看漫画",
+    "key": "kuaikanmanhua",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/kuaikanmanhua.js",
+    "fileName": "kuaikanmanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "来漫画（分流）",
+    "key": "laimanhua_split",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/laimanhua_split_hosts_v1.2.1_configurable.js",
+    "fileName": "laimanhua_split_hosts_v1.2.1_configurable.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "栗子漫画",
+    "key": "lizimh",
+    "version": "1.2.4",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/lizimh.js",
+    "fileName": "lizimh.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "六漫画",
+    "key": "sixmh",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/sixmh.js",
+    "fileName": "sixmh.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫本",
+    "key": "manben",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manben.js",
+    "fileName": "manben.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画1234",
+    "key": "mh1234",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mh1234.js",
+    "fileName": "mh1234.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画160",
+    "key": "mh160",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mh160.js",
+    "fileName": "mh160.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画柜",
+    "key": "ManHuaGui",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manhuagui.js",
+    "fileName": "manhuagui.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画看",
+    "key": "mhkan",
+    "version": "1.1.7",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mhkan.js",
+    "fileName": "mhkan.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画皮",
+    "key": "manhuapi",
+    "version": "1.4.2",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/manhuapi.js",
+    "fileName": "manhuapi.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画人",
+    "key": "manhuaren",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manhuaren.js",
+    "fileName": "manhuaren.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画社",
+    "key": "manhuashe",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manhuashe.js",
+    "fileName": "manhuashe.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫画屋",
+    "key": "manhuawu",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manhuawu.js",
+    "fileName": "manhuawu.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫客栈",
+    "key": "mkzhan",
+    "version": "1.1.4",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mkzhan.js",
+    "fileName": "mkzhan.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫蛙吧",
+    "key": "manwaba",
+    "version": "1.1.3",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manwaba_fixed_v113.js",
+    "fileName": "manwaba_fixed_v113.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫网",
+    "key": "manwang",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manwang_fixed_v120.js",
+    "fileName": "manwang_fixed_v120.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "漫小肆",
+    "key": "mxs",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mxs.js",
+    "fileName": "mxs.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "米卡插画",
+    "key": "mikagogo",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mikagogo.js",
+    "fileName": "mikagogo.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "热辣漫画",
+    "key": "hot_manga",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/hot_manga.js",
+    "fileName": "hot_manga.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "熱辣漫畫",
+    "key": "relamanhua",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/relamanhua.js",
+    "fileName": "relamanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "如漫画",
+    "key": "rumanhua_fixed_v15",
+    "version": "1.2.8",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/rumanhua_fixed_v16.js",
+    "fileName": "rumanhua_fixed_v16.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "如漫画",
+    "key": "rumanhua",
+    "version": "2.4.1",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/rumanhua.js",
+    "fileName": "rumanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "key": "shonen_jump_plus",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/shonen_jump_plus.js",
+    "fileName": "shonen_jump_plus.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "紳士漫畫",
+    "key": "wnacg",
+    "version": "1.0.5",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/wnacg.js",
+    "fileName": "wnacg.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "key": "qq_comic_official_v1",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/tencent_comic_official.js",
+    "fileName": "tencent_comic_official.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "key": "qq_comic_official",
+    "version": "2.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/qq_comic_official.js",
+    "fileName": "qq_comic_official.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "图库漫画",
+    "key": "tuku_cc",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/tuku_cc.js",
+    "fileName": "tuku_cc.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "無限動漫",
+    "key": "comicabc",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/comicabc.js",
+    "fileName": "comicabc.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "嬉皮漫畫",
+    "key": "hipmh",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/hipmh.js",
+    "fileName": "hipmh.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "杂志迷",
+    "key": "zazhimi",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/zazhimi.js",
+    "fileName": "zazhimi.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "再漫画",
+    "key": "zaimanhua",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/zaimanhua.js",
+    "fileName": "zaimanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "CCC追漫台",
+    "key": "ccc",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/ccc.js",
+    "fileName": "ccc.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "Comic Fury 中文",
+    "key": "comicfury",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/comicfury.js",
+    "fileName": "comicfury.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "comick",
+    "key": "comick",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/comick.js",
+    "fileName": "comick.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "CosplayTele",
+    "key": "cosplaytele",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/cosplaytele.js",
+    "fileName": "cosplaytele.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "CxC",
+    "key": "cxc",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/cxc.js",
+    "fileName": "cxc.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "ehentai",
+    "key": "ehentai",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/ehentai.js",
+    "fileName": "ehentai.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "GlobalComix 中文",
+    "key": "globalcomix",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/globalcomix.js",
+    "fileName": "globalcomix.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "GoDa漫画",
+    "key": "goda",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/goda.js",
+    "fileName": "goda.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "jcomic.net",
+    "key": "jcomic",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/jcomic.js",
+    "fileName": "jcomic.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "Komiic",
+    "key": "Komiic",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/komiic_dual.js",
+    "fileName": "komiic_dual.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "LINE WEBTOON",
+    "key": "webtoons_zh_hant",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/webtoons_zh_hant.js",
+    "fileName": "webtoons_zh_hant.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "Mangabz",
+    "key": "mangabz",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mangabz.js",
+    "fileName": "mangabz.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "MOJOIN",
+    "key": "mojoin_v2",
+    "version": "1.0.7",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mojoin_fixed_v107.js",
+    "fileName": "mojoin_fixed_v107.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "MOJOIN",
+    "key": "mojoin",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mojoin.js",
+    "fileName": "mojoin.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "MYCOMIC",
+    "key": "mycomic",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mycomic.js",
+    "fileName": "mycomic.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "NamiComi 中文",
+    "key": "namicomi",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/namicomi.js",
+    "fileName": "namicomi.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "nhentai",
+    "key": "nhentai",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/nhentai.js",
+    "fileName": "nhentai.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "Rawkuma",
+    "key": "rawkuma",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/rawkuma.js",
+    "fileName": "rawkuma.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "Toomics 玩漫（繁中）",
+    "key": "toomics",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/toomics.js",
+    "fileName": "toomics.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "W漫画",
+    "key": "wmanhua",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/wmanhua.js",
+    "fileName": "wmanhua.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "xkcd 中文",
+    "key": "xkcd",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/xkcd.js",
+    "fileName": "xkcd.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "zero搬运网",
+    "key": "zerobyw33",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/zerobyw33.js",
+    "fileName": "zerobyw33.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "zero搬运网",
+    "key": "zerobyw",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/zero.js",
+    "fileName": "zero.js",
+    "description": "列表与详情返回数据"
+  },
+  {
+    "name": "サンデーうぇぶり",
+    "key": "sunday_webry",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/sunday_webry.js",
+    "fileName": "sunday_webry.js",
+    "description": "列表与详情返回数据"
+  }
+]

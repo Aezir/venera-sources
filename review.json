@@ -1,0 +1,218 @@
+[
+  {
+    "name": "4399漫画网",
+    "key": "mh4399",
+    "version": "1.0.3",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "handahao",
+        "name": "4399漫画网",
+        "key": "mh4399",
+        "indexVersion": "1.0.3",
+        "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/mh4399.js",
+        "sha256": "ffddebed57a843e59b341df19a11585c03c0244d5be4bddc22c1b6f95557ebca"
+      },
+      {
+        "upstream": "kuiti",
+        "name": "4399漫画网",
+        "key": "mh4399",
+        "indexVersion": "1.0.3",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/mh4399.js",
+        "sha256": "ffddebed57a843e59b341df19a11585c03c0244d5be4bddc22c1b6f95557ebca"
+      }
+    ]
+  },
+  {
+    "name": "百合会",
+    "key": "baihehui",
+    "version": "1.0.0",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "handahao",
+        "name": "百合会",
+        "key": "baihehui",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/baihehui.js",
+        "sha256": "ba1520f9cad1d0d960d8c0d5520c5db02d874e809e1e59c7fe41f43c474c7ccf"
+      },
+      {
+        "upstream": "kuiti",
+        "name": "百合会",
+        "key": "baihehui",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/baihehui.js",
+        "sha256": "ba1520f9cad1d0d960d8c0d5520c5db02d874e809e1e59c7fe41f43c474c7ccf"
+      }
+    ]
+  },
+  {
+    "name": "泰拉记事社",
+    "key": "terrahistoricus",
+    "version": "1.0.1",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "handahao",
+        "name": "泰拉记事社",
+        "key": "terrahistoricus",
+        "indexVersion": "1.0.1",
+        "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/terrahistoricus.js",
+        "sha256": "0d3210279f763ccd5869fd833adef4b35227d2ebefabe3a8049e642382d972a7"
+      }
+    ]
+  },
+  {
+    "name": "香蕉漫画",
+    "key": "manhuauo_banana_v2",
+    "version": "1.0.3",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "handahao",
+        "name": "香蕉漫画",
+        "key": "manhuauo_banana_v2",
+        "indexVersion": "1.0.3",
+        "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/manhuauo_fixed_v2.js",
+        "sha256": "af540832b7f08e571fea7baae2e0bb545b760c82b5965ab4f20e21b046bb9e20"
+      }
+    ]
+  },
+  {
+    "name": "香蕉漫画",
+    "key": "banana",
+    "version": "1.0.4",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "香蕉漫画",
+        "key": "banana",
+        "indexVersion": "1.0.4",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/banana.js",
+        "sha256": "8ed30b390d9c74c696d045f6067336a0a46e607764a4c7d76357c46585595515"
+      }
+    ]
+  },
+  {
+    "name": "H-Comic",
+    "key": "hcomic",
+    "version": "1.0.0",
+    "reason": "manual_code_review",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "H-Comic",
+        "key": "hcomic",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/hcomic.js",
+        "sha256": "0490859b636ca796a8a16b044724fed556bcfcfcdefae02e6b1e81fd6d8393d2"
+      }
+    ]
+  },
+  {
+    "name": "hitomi.la",
+    "key": "hitomi",
+    "version": "1.1.2",
+    "reason": "manual_code_review",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "hitomi.la",
+        "key": "hitomi",
+        "indexVersion": "1.1.2",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/hitomi.js",
+        "sha256": "af174079e017718268c1e55b4c955228aab80e97813fe5da15798050840c5d92"
+      }
+    ]
+  },
+  {
+    "name": "Kavita",
+    "key": "kavita",
+    "version": "1.0.0",
+    "reason": "requires_backend",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "Kavita",
+        "key": "kavita",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/kavita.js",
+        "sha256": "65173ae4eb4a57f33f867a67f9030078b49b7386b8a02ab5829e1966f4d47763"
+      }
+    ]
+  },
+  {
+    "name": "Komga",
+    "key": "komga",
+    "version": "1.0.0",
+    "reason": "requires_backend",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "Komga",
+        "key": "komga",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/komga.js",
+        "sha256": "2aa5b4e7d4b32bf282f86168b22af091d7436f4e3ad603defb7b6df738a36908"
+      }
+    ]
+  },
+  {
+    "name": "Lanraragi",
+    "key": "lanraragi",
+    "version": "1.2.0",
+    "reason": "requires_backend",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "Lanraragi",
+        "key": "lanraragi",
+        "indexVersion": "1.2.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/lanraragi.js",
+        "sha256": "b2bc20d13979a40bb5973ac56c6fcdaccc096bd95adcafc8e2317c9eda44e130"
+      }
+    ]
+  },
+  {
+    "name": "Picacg",
+    "key": "picacg",
+    "version": "1.0.6",
+    "reason": "login_required",
+    "origins": [
+      {
+        "upstream": "kuiti",
+        "name": "Picacg",
+        "key": "picacg",
+        "indexVersion": "1.0.6",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/picacg.js",
+        "sha256": "a404719b7f3f338911dd0a8a77a73fc50c6aa22048cf6458413f7b5a5a9d152b"
+      }
+    ]
+  },
+  {
+    "name": "SF漫画",
+    "key": "sfacg_manhua",
+    "version": "1.0.0",
+    "reason": "no_public_items",
+    "origins": [
+      {
+        "upstream": "handahao",
+        "name": "SF漫画",
+        "key": "sfacg_manhua",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/handahao666-boop/venera_comic_source@a59bdea5b75b00f3770c2b831ef830aac05cc67e/sfacg_manhua.js",
+        "sha256": "fa1533e0fb6adeeb899d4b8c3623c834ad1f7c31eb8bdd25f37350098054cc37"
+      },
+      {
+        "upstream": "kuiti",
+        "name": "SF漫画",
+        "key": "sfacg_manhua",
+        "indexVersion": "1.0.0",
+        "url": "https://cdn.jsdelivr.net/gh/kuiti/manga-source-index@1850cfa5903a6c5105d57860ff6dc7f5607df00a/05-venera-sources/sources/sfacg_manhua.js",
+        "sha256": "fa1533e0fb6adeeb899d4b8c3623c834ad1f7c31eb8bdd25f37350098054cc37"
+      }
+    ]
+  }
+]
